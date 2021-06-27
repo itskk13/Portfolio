@@ -30,13 +30,21 @@
    font-size: 1.7rem;
  }
 
+ @media only screen and (max-width: 370px) {
+  .name {
+    font-size: 2.3rem;
+  }
+ }
+
+
+
  /* Projects */
 
  .project-heading {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    text-align: center;
    font-size: 3rem;
-   font-weight: 300;
+   font-weight: bold;
    color:#555;
    margin-bottom: 40px;
  }
@@ -199,6 +207,7 @@
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color:#555;
   font-size: 3rem;
+  font-weight: bold;
 }
 
 .about-info {
