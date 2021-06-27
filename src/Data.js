@@ -19,7 +19,7 @@ const Data = [
     id:3,
     img: img3,
     url:'http://beauteoussalons.com/',
-    title: 'Beatous Salons',
+    title: 'Beauteous Salons',
   },
 ]
 
