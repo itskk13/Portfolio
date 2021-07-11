@@ -7,6 +7,7 @@
   justify-content: flex-start;
   align-items: center;
   position: fixed;
+  z-index:1;
 }
 
 .nav-icons {
@@ -17,6 +18,7 @@
   margin-left: 2rem;
   font-size: 2rem;
   background: none;
+  z-index:1;
 }
 
 .brand {

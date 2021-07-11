@@ -8,7 +8,7 @@ const Projects = () => {
     <div className='project-heading-div' id='projects'>
      <p className='project-heading'>Projects</p>
     </div>
-     <div className='projects' id='projects'>
+     <div className='projects' id='projects' data-aos='zoom-in'>
           {
             data.map((item) => {
               return (
